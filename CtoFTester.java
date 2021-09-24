@@ -1,4 +1,4 @@
-public class CtoFTester(){
+public class CtoFTester{
   public static void main(String[] args) {
     System.out.print(celsiusToFahrenheit(30));
     System.out.print(fahrenheitToCelsius(25.4));
