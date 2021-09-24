@@ -1,6 +1,6 @@
 public class CtoFTester{
   public static void main(String[] args) {
-    System.out.print(celsiusToFahrenheit(30));
+    System.out.println(celsiusToFahrenheit(30));
     System.out.println(fahrenheitToCelsius(25.4));
   }
   public static double celsiusToFahrenheit(double celsius){
