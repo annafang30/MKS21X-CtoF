@@ -1,7 +1,7 @@
 /* (originally written in a text file)
 1) the functions should have either a input representing celsious or an input representing fahrenheit.
 2) they should be booleans to account for possible decimals
-3) the functions should return either a celcius input calculated into fahrenheit or a fahrenheit input calculated into celcius*/
+3) the functions should return either a celcius input calculated into fahrenheit (c * 9/5 + 32) or a fahrenheit (f - 32 * 5/9) input calculated into celcius*/
 
 
 public class CtoFTester{
